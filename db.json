@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "AhmedAli",
+      "email": "ahmedali@example.com",
+      "phone": "+201234567890",
+      "favorite_landmarks": [
+        {
+          "name": "Pyramids of Giza",
+          "city": "Giza",
+          "country": "Egypt",
+          "visited": true
+        }
+      ]
+    }
+  ],
+}
