@@ -5,12 +5,13 @@
       "username": "AhmedAli",
       "email": "ahmedali@example.com",
       "phone": "+201234567890",
+      "password": 12345678,
       "favorite_landmarks": [
         {
+          "id": 1,
           "name": "Pyramids of Giza",
-          "city": "Giza",
-          "country": "Egypt",
-          "visited": true
+          "imageUrl": "...",
+          "government" "Giza"
         }
       ]
     }
